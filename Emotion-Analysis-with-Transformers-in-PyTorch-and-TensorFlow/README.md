@@ -181,11 +181,11 @@ name of the checkpoint.
 
 **We all get Attention Ids with Input Ids , it helps to understand and not get confused with respect to padding**
 
-![Attention](https://github.com/prateekghorawat/Emotion-Analysis-with-Transformers-in-PyTorch-and-TensorFlow/blob/main/Images/Attention_mask.png)
+![Attention](https://github.com/prakashmakvana/NLP_Projects/blob/main/Emotion-Analysis-with-Transformers-in-PyTorch-and-TensorFlow/Images/Attention_mask.png)
 
 ---
 
-![Distil](https://github.com/prateekghorawat/Emotion-Analysis-with-Transformers-in-PyTorch-and-TensorFlow/blob/main/Images/distil.png)
+![Distil](https://github.com/prakashmakvana/NLP_Projects/blob/main/Emotion-Analysis-with-Transformers-in-PyTorch-and-TensorFlow/Images/distil.png)
 
 ## Step 1: Tokenization and One-Hot Encoding
 
