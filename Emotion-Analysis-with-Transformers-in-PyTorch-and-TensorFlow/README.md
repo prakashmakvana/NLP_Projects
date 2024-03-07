@@ -1,4 +1,4 @@
-# Emotion-Analysis-with-Transformers-in-PyTorch-and-TensorFlow
+# Emotion-Analysis-with-Transformers-in-TensorFlow
 Emotion Analysis using state-of-the-art Transformer models implemented in both PyTorch and TensorFlow. Emotion analysis is a critical task in natural language processing, enabling the detection of sentiments and emotions in text data. In this, I learned about sentiment analysis and worked on both the framework PyTorch and TensorFlow.
 **Text Classification :** can be used for a broad range of
 applications, such as tagging customer feedback into categories or routing support tickets
